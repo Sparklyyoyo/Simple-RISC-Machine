@@ -53,7 +53,7 @@ This project implements a small 16-bit CPU in SystemVerilog with eight general-p
 
 ### Datapath
 <p align="center">
-    <img src = "datapath.png" />
+    <img src = "Images/datapath.png" />
 </p>
 <p align="center"><em>Image as provided by UBC Teaching Team - CPEN 211</em></p>
 
@@ -77,7 +77,7 @@ This project implements a small 16-bit CPU in SystemVerilog with eight general-p
 
 ### Instruction Decoder
 <p align="center">
-    <img src = "decoder.png" />
+    <img src = "Images/decoder.png" />
 </p>
 <p align="center"><em>Image as provided by UBC Teaching Team - CPEN 211</em></p>
 
@@ -87,7 +87,7 @@ This project implements a small 16-bit CPU in SystemVerilog with eight general-p
 
 ### Controller FSM
 <p align="center">
-    <img src = "FSM.png" />
+    <img src = "Images/FSM.png" />
 </p>
 <p align="center"><em>Image as provided by UBC Teaching Team - CPEN 211</em></p>
 
